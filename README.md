@@ -1,6 +1,8 @@
 # CTQ
 Create test questions with AI
 
+**Notes**: It's still under development, so many features and security are not yet implemented.
+
 ## Installation
 First, install **Python** with the next command.
 ```bash
